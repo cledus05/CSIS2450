@@ -15,4 +15,8 @@ required from the students and determine if the students answers are
 correct/incorrect. Once the assignment is graded/submitted the form would 
 then email the teacher with the students score and answers.
 
-im adding stuffs
+
+Music can tame the wild beast or inspire an entire nation. The power of music can change the world and this app puts that power to your lips. 
+Our app has the traditional fingering of a bamboo flute and is played by blowing on the microphone of your phone. The question is not how will 
+our app change the world, but how will you change the world with our app? Will you sooth your audience with tranquil sounds or lead them to 
+action with a triumphant anthem?  
