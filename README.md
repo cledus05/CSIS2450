@@ -25,3 +25,5 @@ and send the students on their way. Oh you want to know who needs help on what t
 correct the homework and you will have more time spend on actual teaching. Our program will highlight the problem areas
 for each student allowing you to focus your efforts on what will make the biggest impact on their learning. 
 
+The first paragraph is my attempt at MAP.
+
