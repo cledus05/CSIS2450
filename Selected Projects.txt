@@ -1,5 +1,5 @@
-2 Main Ideas
-
+ 2 Main Ideas +
++++++++++++++++
 
 5th Grade Math Web App
 
@@ -18,6 +18,9 @@ required from the students and determine if the students answers are
 correct/incorrect. Once the assignment is graded/submitted the form would 
 then email the teacher with the students score and answers.
 
+==========================================================================
+
+Flute App
 
 Music can tame the wild beast or inspire an entire nation. The power of music 
 can change the world and this app puts that power to your lips. 
