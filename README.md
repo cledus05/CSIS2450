@@ -3,15 +3,7 @@ CSIS2450
 
 This is the repository for the Scorching 8!!
 
-After sizing up the other teams it is clear that our team has the least amount of experience writing code. 
-We are also the most likely to produce a working piece of software before the class is over.
-We can do this by setting clear and realistic goals for our project. We are a team! Several of you have looked worried
-about the scope of our projects as if you would have to complete the entire thing on your own. You don't have to. You will
-only have to figure out a part of it and you will have help doing it if you need it.
-The biggest hurdle is getting started you need to decide which ideas to submit. 
-The deadline to submit is almost here but it’s the next deadline we need to be worried about. 
-I am still voting for 5th grade math and bamboo flute. 
-I could be persuaded if someone wants to put up a good argument for a different combination.
+
 
 You thought you had survived 5th grade math and armed with your fancy pocket calculator you were confident that you
 would never again have to go through the torture of  spending hours practicing simple arithmetic. Now your darling child
